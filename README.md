@@ -22,7 +22,7 @@ attrition and thus enhance retention rate.
 
 ![Methodology Flowchart](./Images/Flowchart.png)
 
-### Dataset
+## Dataset
 We used the [IBM Employee Attrition dataset from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). It contains 35 columns and 1470 rows and has a mix of
 numerical and categorical features. A sample row is shown below.
 
@@ -35,3 +35,10 @@ Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigat
 **Steps to run using Google Colab**
 1. Upload the dataset
 2. Click on Runtime -> Run all / Restart and Run all
+
+## Libraries Used
+1. [Numpy](https://numpy.org/)
+2. [Pandas](https://pandas.pydata.org/)
+3. [Matplotlib](https://matplotlib.org/)
+4. [Seaborn](https://seaborn.pydata.org/)
+5. [Scikit-learn](https://scikit-learn.org/stable/index.html)
