@@ -24,7 +24,7 @@ attrition and thus enhance retention rate.
 
 #### Machine Learning Models
 
-We trained and evaluated 9 supervised machine lerning classification models.
+We trained and evaluated 9 supervised machine learning classification models.
 
 1. Logistic Regression
 2. Naive Bayes
