@@ -56,6 +56,8 @@ numerical and categorical features. A sample row is shown below.
 
 <img src="Images/SampleRow.png" height="400">
 
+## Results
+<img src="Images/FeatureImportance.png" height="500">
 
 ## Instructions to run
 Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigator.
