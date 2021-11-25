@@ -22,6 +22,34 @@ attrition and thus enhance retention rate.
 
 ![Methodology Flowchart](./Images/Flowchart.png)
 
+#### Machine Learning Models
+
+We trained and evaluated 9 supervised machine lerning classification models.
+
+1. Logistic Regression
+2. Naive Bayes
+3. Decision Tree
+4. Random Forest
+5. AdaBoost
+6. Support Vector Machine
+7. Linear Discriminant Analysis
+8. Multilayer Perceptron
+9. K-Nearest Neighbors
+
+#### Datasets
+We trained our models on 6 different datasets
+1. Imabalanced
+2. Undersampled
+3. Oversampled
+4. PCA
+5. Undersampling With PCA
+6. Oversampling With PCA
+
+Further, to get the best performance, hyperparameter tuning was carried out using RandomSearchCV and GridSearchCV. K-fold cross-validation with 5 folds was also
+performed on the training set. To handle model interpretability, appropriate graphs and figures were used.Accuracy for the attrition decision is a biased metric, and hence we evaluated the model on all the
+following classification metrics: accuracy, precision, recall
+and F1 Score.
+
 ## Dataset
 We used the [IBM Employee Attrition dataset from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). It contains 35 columns and 1470 rows and has a mix of
 numerical and categorical features. A sample row is shown below.
