@@ -65,6 +65,12 @@ Rating, Gender and BusinessTravel.
 
 <img src="Images/FeatureImportance.png" height="500">
 
+#### Best Performing Model
+The best performance was obtained in Random Forest Model
+with PCA and Oversampling with an accuracy of 99.2%,
+the precision of 98.6%, recall of 99.8% and F1 Score of
+99.2%.
+
 ## Instructions to run
 Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigator.
 
