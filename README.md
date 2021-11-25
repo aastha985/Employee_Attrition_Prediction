@@ -6,7 +6,7 @@ This project was created as a part of CSE343, Machine Learning Course at IIIT De
 1. [Aastha](https://github.com/aastha985 "GitHub Profile")
 2. [Aditi Sejal](https://github.com/asejal "GitHub Profile")
 3. [Vaibhav Soni](https://github.com/vaibhav2808 "GitHub Profile")
-4. [Samad Shahid]()
+4. [Samad Shahid](https://github.com/SamadShahid "GitHub Profile")
 
 ## Introduction
 
@@ -21,3 +21,12 @@ attrition and thus enhance retention rate.
 ## Methodology
 
 ![Methodology Flowchart](./Images/Flowchart.png)
+
+### Dataset
+
+## Instructions to run
+Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigator.
+
+**Steps to run using Google Colab**
+1. Upload the dataset
+2. Click on Runtime -> Run all / Restart and Run all
