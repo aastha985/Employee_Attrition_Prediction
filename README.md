@@ -58,6 +58,13 @@ numerical and categorical features. A sample row is shown below.
 
 ## Results
 
+<img src="Images/Table2.png" height="300">
+
+<img src="Images/Table3.png" height="300">
+
+<img src="Images/Table4.png" height="300">
+
+
 The figure below shows feature importance w.r.t random forest with oversampling. We observe that the most important
 features were MonthlyIncome followed by OverTime and Age, while the least important features were Performance
 Rating, Gender and BusinessTravel.
