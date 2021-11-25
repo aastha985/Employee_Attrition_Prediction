@@ -26,6 +26,8 @@ attrition and thus enhance retention rate.
 We used the [IBM Employee Attrition dataset from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). It contains 35 columns and 1470 rows and has a mix of
 numerical and categorical features. A sample row is shown below.
 
+<img src="Images/SampleRow.png" height="400">
+
 
 ## Instructions to run
 Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigator.
