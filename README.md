@@ -91,3 +91,11 @@ Jupyter Notebook can be run using Google Colab or locally using Anaconda Navigat
 3. [Matplotlib](https://matplotlib.org/)
 4. [Seaborn](https://seaborn.pydata.org/)
 5. [Scikit-learn](https://scikit-learn.org/stable/index.html)
+
+## Report 
+![1](Images/Report-1.jpg)
+![2](Images/Report-2.jpg)
+![3](Images/Report-3.jpg)
+![4](Images/Report-4.jpg)
+![5](Images/Report-5.jpg)
+![6](Images/Report-6.jpg)
